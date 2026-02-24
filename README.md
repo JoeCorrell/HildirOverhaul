@@ -12,21 +12,21 @@ Give Hildir the same premium trader UI style while keeping her vanilla shop stoc
 
 <h3>Buy</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/JoeCorrell/HaldorOverhaul/main/Screenshots/Buy.png" alt="Buy Tab" width="600"/>
+<img src="https://github.com/JoeCorrell/HildirOverhaul/blob/main/Screenshots/Buy.png" alt="Buy Tab" width="600"/>
 </p>
 
 <hr/>
 
 <h3>Sell</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/JoeCorrell/HaldorOverhaul/main/Screenshots/Sell.png" alt="Sell Tab" width="600"/>
+<img src="https://github.com/JoeCorrell/HildirOverhaul/blob/main/Screenshots/Sell.png" alt="Sell Tab" width="600"/>
 </p>
 
 <hr/>
 
 <h3>Bank</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/JoeCorrell/HaldorOverhaul/main/Screenshots/Bank.png" alt="Bank Tab" width="600"/>
+<img src="https://github.com/JoeCorrell/HildirOverhaul/blob/main/Screenshots/Bank.png" alt="Bank Tab" width="600"/>
 </p>
 
 ---
