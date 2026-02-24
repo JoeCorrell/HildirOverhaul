@@ -68,7 +68,8 @@ namespace HildirOverhaul
         [HarmonyPrefix]
         private static bool Chat_SetNpcText_Prefix()
         {
-            if (_traderUI != null && _traderUI.IsVisible)
+            if ((_traderUI != null && _traderUI.IsVisible) ||
+                (_bankUI != null && _bankUI.IsVisible))
                 return false;
             return true;
         }

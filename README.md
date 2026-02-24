@@ -12,21 +12,21 @@ Give Hildir the same premium trader UI style while keeping her vanilla shop stoc
 
 <h3>Buy</h3>
 <p align="center">
-<img src="https://github.com/JoeCorrell/HildirOverhaul/blob/main/Screenshots/Buy.png" alt="Buy Tab" width="600"/>
+<img src="https://raw.githubusercontent.com/JoeCorrell/HildirOverhaul/main/Screenshots/buy.png" alt="Buy Tab" width="600"/>
 </p>
 
 <hr/>
 
 <h3>Sell</h3>
 <p align="center">
-<img src="https://github.com/JoeCorrell/HildirOverhaul/blob/main/Screenshots/Sell.png" alt="Sell Tab" width="600"/>
+<img src="https://raw.githubusercontent.com/JoeCorrell/HildirOverhaul/main/Screenshots/sell.png" alt="Sell Tab" width="600"/>
 </p>
 
 <hr/>
 
 <h3>Bank</h3>
 <p align="center">
-<img src="https://github.com/JoeCorrell/HildirOverhaul/blob/main/Screenshots/Bank.png" alt="Bank Tab" width="600"/>
+<img src="https://raw.githubusercontent.com/JoeCorrell/HildirOverhaul/main/Screenshots/bank.png" alt="Bank Tab" width="600"/>
 </p>
 
 ---
@@ -48,6 +48,18 @@ Hildir can be used as a personal banker:
 `Deposit` moves coins from inventory into your bank balance<br/>
 `Withdraw` moves coins from bank back to inventory<br/>
 Buy and sell operations use the same bank flow automatically
+
+<hr/>
+
+## Compatible Mods
+
+<p align="center">
+<a href="https://thunderstore.io/c/valheim/p/Azumatt/BowsBeforeHoes/">
+<img src="https://raw.githubusercontent.com/JoeCorrell/HildirOverhaul/main/Screenshots/BowsBeforeHoes.png" alt="Bows Before Hoes" width="300"/>
+</a>
+</p>
+
+**[Bows Before Hoes](https://thunderstore.io/c/valheim/p/Azumatt/BowsBeforeHoes/)** items are accepted by Hildir in the sell flow. Hildir can buy those items from you, but her buyable shop stock remains vanilla and does not sell those modded items.
 
 <hr/>
 
