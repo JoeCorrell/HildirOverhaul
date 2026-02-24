@@ -1,0 +1,11 @@
+{
+  "name": "HildirOverhaul",
+  "author": "ProfMags",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/JoeCorrell/HildirOverhaul",
+  "description": "Replaces Hildir's trader UI with buy/sell/bank panels while preserving her vanilla inventory and prices.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2200",
+    "ValheimModding-JsonDotNET-13.0.4"
+  ]
+}
